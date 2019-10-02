@@ -1,0 +1,24 @@
+{
+    "Users":[
+        {
+            "username": "KimK" ,
+            "password": "North"
+         },
+         {
+             "username":"KourtneyK" ,
+             "password":"Mason"
+         },
+         {
+            "username": "KhloeK" ,
+            "password": "True"
+         },
+         {
+             "username":"KendallK" ,
+             "password":"Me"
+         },
+         {
+             "username":"KylieK" ,
+             "password":"Stormi"
+         }
+    ]
+}
